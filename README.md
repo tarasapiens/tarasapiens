@@ -11,4 +11,7 @@
 ![TestRail](https://img.shields.io/badge/-Testrail-0000CD?style=for-the-badge&logo=testrail&logoColor=D2691E)
 ![Charlesproxy](https://img.shields.io/badge/-charlesproxy-0000CD?style=for-the-badge&logo=charlesproxy&logoColor=D2691E)
 
-Follow me
+### Follow me
+[![Instagram](https://img.shields.io/badge/-instagram-0000CD?style=for-the-badge&logo=instagram&logoColor=D2691E)](https://instagram.com/tarasapiens)
+[![Vkontakte](https://img.shields.io/badge/-vkontakte-0000CD?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/trilobita)
+[![Youtube](https://img.shields.io/badge/-youtube-0000CD?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCC9o6eHEugUr20KO7gwVxzA/featured)
