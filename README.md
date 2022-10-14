@@ -15,3 +15,5 @@
 [![Instagram](https://img.shields.io/badge/-instagram-0000CD?style=for-the-badge&logo=instagram&logoColor=D2691E)](https://instagram.com/tarasapiens)
 [![Vkontakte](https://img.shields.io/badge/-vkontakte-0000CD?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/trilobita)
 [![Youtube](https://img.shields.io/badge/-youtube-0000CD?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCC9o6eHEugUr20KO7gwVxzA/featured)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarasapiens&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
