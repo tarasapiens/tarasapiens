@@ -5,6 +5,7 @@
 ### Languages and Tools 
 ![Java](https://img.shields.io/badge/-Java-0000CD?style=for-the-badge&logo=java&logoColor=FF0000)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-0000CD?style=for-the-badge&logo=Hibernate&logoColor=FF0000)
+![Selenium](https://img.shields.io/badge/-Selenium-0000CD?style=for-the-badge&logo=Selenium&logoColor=FF0000)
 ![Jira](https://img.shields.io/badge/-Jira-0000CD?style=for-the-badge&logo=jira&logoColor=FF0000)
 ![Postman](https://img.shields.io/badge/-Postman-0000CD?style=for-the-badge&logo=postman&logoColor=D2691E)
 ![Githab](https://img.shields.io/badge/-github-0000CD?style=for-the-badge&logo=github&logoColor=87CEEB)
