@@ -1,6 +1,6 @@
 [![Header](https://github.com/tarasapiens/tarasapiens/blob/main/assets/field_image_istock-516189065.jpg)](https://instagram.com/tarasapiens)
 
-## I'm a beginner AQA-engineer
+## Beginner AQA-engineer
 
 ### Languages and Tools 
 ![Java](https://img.shields.io/badge/-Java-0000CD?style=for-the-badge&logo=java&logoColor=FF0000)
