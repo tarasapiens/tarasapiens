@@ -19,7 +19,7 @@
 ![Devtools](https://img.shields.io/badge/-Devtools-0000CD?style=for-the-badge&logo=devtools&logoColor=D2691E)
 ![TestRail](https://img.shields.io/badge/-Testrail-0000CD?style=for-the-badge&logo=testrail&logoColor=D2691E)
 ![Charlesproxy](https://img.shields.io/badge/-charlesproxy-0000CD?style=for-the-badge&logo=charlesproxy&logoColor=D2691E)
-![SwaggerHub](https://img.shields.io/badge/-SwaggerHub-0000CD?style=for-the-badge&logo=SwaggerHub&logoColor=D2691E)
+![Swagger](https://img.shields.io/badge/-Swagger-0000CD?style=for-the-badge&logo=Swagger&logoColor=D2691E)
 ![CiscoPacketTraser](https://img.shields.io/badge/-CiscoPacketTraser-0000CD?style=for-the-badge&logo=CiscoPacketTraser&logoColor=FF0000)
 
 ### Follow me
