@@ -1,13 +1,13 @@
 [![Header](https://github.com/tarasapiens/tarasapiens/blob/main/assets/field_image_istock-516189065.jpg)](https://instagram.com/tarasapiens)
 
-## I'm a beginner QA-engineer
+## I'm a beginner AQA-engineer
 
 ### Languages and Tools 
 ![Java](https://img.shields.io/badge/-Java-0000CD?style=for-the-badge&logo=java&logoColor=FF0000)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-0000CD?style=for-the-badge&logo=Hibernate&logoColor=FF0000)
 ![Selenium](https://img.shields.io/badge/-Selenium-0000CD?style=for-the-badge&logo=Selenium&logoColor=FF0000)
 ![Selenide](https://img.shields.io/badge/-Selenide-0000CD?style=for-the-badge&logo=Selenide&logoColor=FF0000)
-![RESTAssured](https://img.shields.io/badge/-RESTAssured-0000CD?style=for-the-badge&logo=RESTAssured&logoColor=FF0000)
+![REST_Assured](https://img.shields.io/badge/-REST_Assured-0000CD?style=for-the-badge&logo=REST_Assured&logoColor=FF0000)
 ![JUnit](https://img.shields.io/badge/-JUnit-0000CD?style=for-the-badge&logo=JUnit&logoColor=FF0000)
 ![IntelliJ_IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-0000CD?style=for-the-badge&logo=IntelliJ_IDEA&logoColor=FF0000)
 ![Docker](https://img.shields.io/badge/-Docker-0000CD?style=for-the-badge&logo=Docker&logoColor=FF0000)
