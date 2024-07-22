@@ -9,6 +9,7 @@
 ![Selenide](https://img.shields.io/badge/-Selenide-0000CD?style=for-the-badge&logo=Selenide&logoColor=FF0000)
 ![RESTAssured](https://img.shields.io/badge/-RESTAssured-0000CD?style=for-the-badge&logo=RESTAssured&logoColor=FF0000)
 ![JUnit](https://img.shields.io/badge/-JUnit-0000CD?style=for-the-badge&logo=JUnit&logoColor=FF0000)
+![Docker](https://img.shields.io/badge/-Docker-0000CD?style=for-the-badge&logo=Docker&logoColor=FF0000)
 ![Allure](https://img.shields.io/badge/-Allure-0000CD?style=for-the-badge&logo=Allure&logoColor=FF0000)
 ![Jira](https://img.shields.io/badge/-Jira-0000CD?style=for-the-badge&logo=jira&logoColor=FF0000)
 ![Postman](https://img.shields.io/badge/-Postman-0000CD?style=for-the-badge&logo=postman&logoColor=D2691E)
