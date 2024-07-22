@@ -1,4 +1,4 @@
-[![Header](https://github.com/tarasapiens/tarasapiens/blob/main/assets/field_image_istock-516189065.jpg)](https://instagram.com/tarasapiens)
+[![Header](https://github.com/tarasapiens/tarasapiens/blob/main/assets/1674286314_catherineasquithgallery-com-p-karbon-fon-serii-foto-61.jpg)](https://instagram.com/tarasapiens)
 
 ## Beginner AQA-engineer
 
